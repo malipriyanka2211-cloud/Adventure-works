@@ -5,7 +5,7 @@ This project presents a comprehensive analysis of the Adventure Works dataset us
 
 # The project demonstrates skills in:
 
-Data Cleaning and Transformation
+- Data Cleaning and Transformation
 SQL Querying and Analysis
 Business Intelligence Reporting
 Dashboard Development
