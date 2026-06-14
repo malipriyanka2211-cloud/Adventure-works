@@ -3,6 +3,21 @@
 
 This project presents a comprehensive analysis of the Adventure Works dataset using SQL, Excel, and Power BI. The objective was to transform raw sales data into meaningful business insights through data cleaning, analysis, visualization, and dashboard development.
 
+## Dataset
+
+This project utilizes the  Adventure Works Dataset, a widely used business intelligence dataset that simulates the operations of a global retail company. The dataset consists of 7 interconnected tables covering sales transactions, customer demographics, product hierarchies, date dimensions, and sales territories. A star schema data model was implemented to establish relationships between dimension and fact tables, enabling efficient analysis of sales performance, customer behavior, product trends, and regional business insights.
+
+## Tables Included:
+
+DimCustomer
+DimDate
+DimProduct
+DimProductCategory
+DimProductSubCategory
+DimSalesTerritory
+FactInternetSales
+
+
 # The project demonstrates skills in:
 
 - Data Cleaning and Transformation
@@ -103,6 +118,13 @@ Focuses on profitability and cost analysis.
 - Australia contributes the highest regional profit.
 - Q4 records the highest profitability.
 - Road Bikes lead profit generation among product subcategories.
+
+  ## 📸 Dashboard Screenshots
+
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+
+
 
 # Excel Dashboards
 Sales Analysis Dashboard
