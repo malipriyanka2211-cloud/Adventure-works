@@ -55,7 +55,7 @@ The SQL phase focused on preparing and analyzing the Adventure Works data.
 - Which customers generate the highest sales?
 
 # Power BI Dashboards
-# 1. Executive Sales Dashboard
+# 1.  Sales Dashboard
 
 Provides a high-level overview of business performance.
 
@@ -79,6 +79,7 @@ Provides a high-level overview of business performance.
 - Road Bikes are the top-performing subcategory.
 - Sales remain consistent throughout the year.
 - North America and Europe are major revenue-generating regions.
+  
 
 # 2. Customer Analysis Dashboard
 
@@ -121,13 +122,22 @@ Focuses on profitability and cost analysis.
 
   ## 📸 Dashboard Screenshots
 
-### Power BI Dashboard
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+### 1. Sales Analysis Dashboard
+Provides a comprehensive overview of sales performance across products, categories, regions, and time periods. Tracks key KPIs such as Total Sales, Orders, and Revenue Trends to identify growth opportunities.
 
+![Sales Analysis Dashboard](https://github.com/malipriyanka2211-cloud/Adventure-works/blob/main/Adventure%20work%20sales%20dashboard.png)
+### 2. Profit Analysis Dashboard
+Focuses on profitability metrics, highlighting profit contribution by product categories, regions, and customer segments. Helps identify high-margin products and areas requiring performance improvement.
 
+![Profit Analysis Dashboard](https://github.com/malipriyanka2211-cloud/Adventure-works/blob/main/Adventue%20work%20Profit%20analysis%20Dashboard.png)
 
+### 3. Customer Analysis Dashboard
+Analyzes customer demographics, purchasing behavior, and customer value. Identifies top customers, buying patterns, and customer segments to support data-driven marketing and retention strategies.
+
+![Customer Analysis Dashboard](https://github.com/malipriyanka2211-cloud/Adventure-works/blob/main/Adventure%20work%20customer%20analysis%20dashboard.png)
 # Excel Dashboards
-Sales Analysis Dashboard
+
+## Sales Analysis Dashboard
 
 # Features:
 
@@ -137,6 +147,11 @@ Sales Analysis Dashboard
 - Quarterly Sales Distribution
 - Interactive Filters and Slicers
 - Profit Analysis Dashboard
+
+  ### 1. Sales Dashboard Screenshort
+Provides a detailed analysis of sales performance, highlighting Total Sales, Order Trends, Product Category Performance, and Regional Sales Distribution. Enables stakeholders to monitor business growth and identify top-performing areas.
+
+![Sales Dashboard](screenshots/sales_dashboard.png)
 
 # Features:
 
