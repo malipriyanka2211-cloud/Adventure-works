@@ -9,13 +9,13 @@ This project utilizes the  Adventure Works Dataset, a widely used business intel
 
 ## Tables Included:
 
-DimCustomer
-DimDate
-DimProduct
-DimProductCategory
-DimProductSubCategory
-DimSalesTerritory
-FactInternetSales
+-  DimCustomer
+-  DimDate
+-  DimProduct
+-  DimProductCategory
+-  DimProductSubCategory
+-  DimSalesTerritory
+-  FactInternetSales
 
 
 # The project demonstrates skills in:
