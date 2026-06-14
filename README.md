@@ -151,7 +151,7 @@ Analyzes customer demographics, purchasing behavior, and customer value. Identif
   ### 1. Sales Dashboard Screenshort
 Provides a detailed analysis of sales performance, highlighting Total Sales, Order Trends, Product Category Performance, and Regional Sales Distribution. Enables stakeholders to monitor business growth and identify top-performing areas.
 
-![Sales Dashboard](screenshots/sales_dashboard.png)
+![Sales Dashboard](https://github.com/malipriyanka2211-cloud/Adventure-works/blob/main/Adventure%20work%20sales%20dashboard%20in%20Excel.png)
 
 # Features:
 
@@ -160,6 +160,11 @@ Provides a detailed analysis of sales performance, highlighting Total Sales, Ord
 - Top 10 Products by Profit
 - Quarterly Profit Distribution
 - Interactive Slicers
+
+  ### 2. Profit Dashboard
+Focuses on profitability analysis by examining Total Profit, Profit Margins, Product Performance, and Regional Profit Contribution. Helps identify profitable business segments and areas for improvement.
+
+![Profit Dashboard](https://github.com/malipriyanka2211-cloud/Adventure-works/blob/main/Adventure%20work%20Profit%20analysis%20Dashboard%20in%20Excel.png)
 
 # Project Outcomes
 - Improved understanding of SQL-based data analysis.
